@@ -22,4 +22,3 @@ a's'f's'fasdadad
 <<<<<<< HEAD
 =======
 a's'f's'fasdadad
->>>>>>> 27c8069... c2
