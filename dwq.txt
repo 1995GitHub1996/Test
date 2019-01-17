@@ -8,7 +8,6 @@ a's'f's'fasdadad
 我第n+2次提
 =======
 <<<<<<< Updated upstream
-我第3次提
 =======
 >>>>>>> Stashed changes
 >>>>>>> Stashed changes
